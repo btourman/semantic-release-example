@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/btourman/semantic-release-example/compare/v1.5.0...v1.6.0) (2024-03-14)
+
+
+### Features
+
+* add changelog ([b561a9a](https://github.com/btourman/semantic-release-example/commit/b561a9a14384634f026a2e07475522428c9cc1b0))
+
 # [1.5.0](https://github.com/btourman/semantic-release-example/compare/v1.4.0...v1.5.0) (2024-03-14)
 
 
